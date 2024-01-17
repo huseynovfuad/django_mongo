@@ -11,8 +11,8 @@ This is a simple Dockerized project using Django as the web framework, MongoDB a
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/django-mongo-dockerized.git
-    cd django-mongo-dockerized
+    git clone https://github.com/huseynovfuad/django_mongo
+    cd django_mongo
     ```
 
 2. **Build and Run Docker Containers:**
